@@ -4,54 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="267d724d-31ed-4e0d-807c-3e7147e8ce3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/action/RegisterAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/form/Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/list/Default.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/multievent/SayHello1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/multievent/SayHello2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/simple/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/simple/Download.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/simple/SayHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/module/screen/simple/SayHiImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/app1/form.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/pipeline-exception.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/pipeline.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/resources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/uris.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/webx-component-and-root.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/webx-component.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/webx-app1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/webx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/layout/default.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/screen/form/register.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/screen/form/welcome.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/screen/index.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/screen/list/asHtml.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/screen/list/asJson.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/app1/templates/screen/list/asXml.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/common/templates/layout/default.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/common/templates/macros.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/common/templates/screen/error.vm" afterDir="false" />
+    <list default="true" id="267d724d-31ed-4e0d-807c-3e7147e8ce3a" name="Changes" comment="Atividade Módulo 5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/dominio/Agendamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/app1/dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DuR56TR88KfCJjb8g9tx4Kv3HO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661546809045</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atividade Módulo 5">
+      <created>1661547818801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661547818801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividade Módulo 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividade Módulo 5" />
   </component>
 </project>
